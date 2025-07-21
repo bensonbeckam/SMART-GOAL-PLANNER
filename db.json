@@ -1,12 +1,12 @@
 {
   "goals": [
     {
-      "id": "1",
-      "name": "Travel Fund",
-      "targetAmount": 1000,
-      "savedAmount": 200,
-      "category": "Vacation",
-      "deadline": "2024-08-01"
+      "id": "fa03",
+      "name": "Earn Dollars",
+      "targetAmount": 444,
+      "category": "Sports",
+      "deadline": "2222-02-22",
+      "savedAmount": 0
     }
   ]
 }
