@@ -1,0 +1,12 @@
+{
+  "goals": [
+    {
+      "id": "1",
+      "name": "Travel Fund",
+      "targetAmount": 1000,
+      "savedAmount": 200,
+      "category": "Vacation",
+      "deadline": "2024-08-01"
+    }
+  ]
+}
